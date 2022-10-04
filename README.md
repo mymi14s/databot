@@ -6,3 +6,7 @@ This is a simple python program that read json data, scan through dict, identify
 - git clone https://github.com/mymi14s/databot
 - cd databot
 - python3 main.py
+
+# Unitest
+To test for existing data and type run test with
+- python3 tests.py
